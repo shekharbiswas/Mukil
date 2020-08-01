@@ -1,4 +1,4 @@
-# Mukil
+# Lessons with Mukil
 
 This is lessons with Mukil.
 
