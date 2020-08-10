@@ -11,7 +11,3 @@
 * sort() - Sort items in a list in ascending order
 * reverse() - Reverse the order of items in the list
 * copy() - Returns a shallow copy of the list
-
-
-
-hi
